@@ -21,4 +21,4 @@ TIme manage online
 ## เป้าหมาย
 นักศึกษาเข้าคลาสได้ตรงเวลา
 
-![Main Menu](C:\Users\User\Pictures\mmenu.png)
+![Main Menu](C:/Users/User/Pictures/mmenu.png)
