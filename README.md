@@ -20,3 +20,5 @@ TIme manage online
 -Bootstrap
 ## เป้าหมาย
 นักศึกษาเข้าคลาสได้ตรงเวลา
+
+![Main Menu](C:\Users\User\Pictures\mmenu.png)
